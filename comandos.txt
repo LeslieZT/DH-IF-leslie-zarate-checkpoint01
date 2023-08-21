@@ -1,0 +1,31 @@
+ 2005  mkdir  DH-IF-leslie-zarate-checkpoint01
+ 2006  cd DH-IF-leslie-zarate-checkpoint01
+ 2007  git init
+ 2008  git branch -M main
+ 2009  git remote add origin https://github.com/LeslieZT/DH-IF-leslie-zarate-checkpoint01.git
+ 2010  git branch -M main
+ 2011  touch main.js index.html
+ 2014  git add .
+ 2015  git commit -m "commit 01 Leslie Zarate"
+ 2016  git branch -M main
+ 2017  git push -u origin main
+ 2018  git checkout -b feature
+ 2019  mkdir Hardware Software SeguridadInformatica
+ 2020  cd Hardware/
+ 2021  touch resumen.txt
+ 2022  cd ..
+ 2023  cd Software/
+ 2024  touch resumen.txt
+ 2025  cd ..
+ 2026  cd SeguridadInformatica/
+ 2027  touch resumen.txt
+ 2028  cd ..
+ 2029  git add .
+ 2030  git commit -m "commit 02 Leslie Zarate"
+ 2031  git push origin feature
+ 2032  git checkout main 
+ 2033  mv main.js resumenHardware.txt
+ 2034  mv index.html resumenSoftware.txt
+ 2035  touch comandos.txt
+ 2036  history
+ 2037  history 2005 > comandos.txt 

@@ -1,0 +1,11 @@
+Microsoft Word:
+Categoría: Procesador de texto.
+Descripción: Microsoft Word es una aplicación ampliamente utilizada para crear, editar y formatear documentos de texto. Es parte de la suite de software Microsoft Office y ofrece numerosas características de procesamiento de texto, como diseño de página, revisión gramatical y ortográfica, inserción de imágenes y gráficos, y mucho más.
+
+Mozilla Firefox:
+Categoría: Navegador web.
+Descripción: Mozilla Firefox es un navegador web de código abierto y altamente personalizable. Permite a los usuarios navegar por la web, gestionar marcadores, instalar extensiones y brinda un alto grado de privacidad y seguridad. Es conocido por su velocidad y rendimiento.
+
+Adobe Photoshop:
+Categoría: Edición de imágenes y diseño gráfico.
+Descripción: Adobe Photoshop es una poderosa herramienta de edición de imágenes y diseño gráfico utilizada por profesionales de todo el mundo. Permite la manipulación avanzada de imágenes, la creación de gráficos y la edición de fotos. Incluye características como capas, filtros, pinceles personalizables y más.

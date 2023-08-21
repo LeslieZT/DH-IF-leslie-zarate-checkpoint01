@@ -1,0 +1,5 @@
+Las tres principales memorias:
+
+Memoria RAM (Random Access Memory)
+Memoria ROM (Read-Only Memory)
+Cache
